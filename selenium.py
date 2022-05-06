@@ -3,4 +3,4 @@
 """LIBRARIES"""
 import pandas as pd
 import numpy as np
-import selenium
+import selenium.webdriver as  sd
